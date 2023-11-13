@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<root ptr="0x5589e45eae40" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x5589e45d60a0" id="0"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="9" nContent="0"/>
+      </point>
+      <mark>
+       <SwPosition nNode="9" nContent="0"/>
+      </mark>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="16262" height="16838" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="16262" height="16838"/>
+ </infos>
+ <page ptr="0x5589e45ecfe0" id="1" symbol="11SwPageFrame" upper="0" lower="2">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="4640" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x5589e45ed0e0" id="2" symbol="11SwBodyFrame" upper="1" lower="3">
+   <infos>
+    <bounds left="5774" top="1418" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x5589e45ed280" id="3" symbol="11SwTextFrame" upper="2" txtNodeIndex="9" WritingMode="Horizontal">
+    <infos>
+     <bounds left="5774" top="1418" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <anchored>
+     <SwAnchoredDrawObject ptr="0x5589e46806e0">
+      <bounds left="6002" top="1100" width="2640" height="1911"/>
+      <SdrObject ptr="0x5589e5901200" symbol="17SdrObjCustomShape" name="Shape1" title="" description="" nOrdNum="0" aOutRect="6002, 1100, 2639, 1910">
+       <DefaultProperties>
+        <BaseProperties/>
+        <SfxItemSet>
+         <SfxInt32Item whichId="1065" value="1721"/>
+         <SfxBoolItem whichId="1066" value="off"/>
+         <SdrTextVertAdjustItem whichId="1072" value="1"/>
+         <SfxInt32Item whichId="1074" value="2450"/>
+         <SfxPoolItem whichId="1077" typeName="21SdrTextHorzAdjustItem" presentation="H"/>
+         <SfxUInt16Item whichId="1159" value="0"/>
+         <SfxPoolItem whichId="1229" typeName="26SdrCustomShapeGeometryItem" presentation=" "/>
+         <SfxPoolItem whichId="4020" typeName="13SvxAdjustItem" presentation="C"/>
+         <SvxFontItem whichId="4025" familyName="Calibri" styleName="" family="5" pitch="0" textEncoding="0"/>
+         <SvxWeightItem whichId="4028" value="8" presentation="bold"/>
+         <SvxWeightItem whichId="4045" value="8" presentation="bold"/>
+         <SvxWeightItem whichId="4046" value="8" presentation="bold"/>
+        </SfxItemSet>
+       </DefaultProperties>
+       <OutlinerParaObject ptr="0x5589e180a9a0">
+        <EditTextObject>
+         <ContentInfo style="">
+          <text>Technician</text>
+          <SfxItemSet>
+           <SfxPoolItem whichId="4020" typeName="13SvxAdjustItem" presentation="C"/>
+           <SvxFontItem whichId="4025" familyName="Calibri" styleName="" family="5" pitch="0" textEncoding="0"/>
+           <SvxWeightItem whichId="4028" value="8" presentation="bold"/>
+           <SvxWeightItem whichId="4045" value="8" presentation="bold"/>
+           <SvxWeightItem whichId="4046" value="8" presentation="bold"/>
+          </SfxItemSet>
+          <attribs start="0" end="10">
+           <SvxFontItem whichId="4025" familyName="Calibri" styleName="" family="5" pitch="0" textEncoding="0"/>
+          </attribs>
+          <attribs start="0" end="10">
+           <SvxWeightItem whichId="4028" value="8" presentation="bold"/>
+          </attribs>
+          <attribs start="0" end="10">
+           <SvxWeightItem whichId="4045" value="8" presentation="bold"/>
+          </attribs>
+          <attribs start="0" end="10">
+           <SvxWeightItem whichId="4046" value="8" presentation="bold"/>
+          </attribs>
+         </ContentInfo>
+        </EditTextObject>
+        <Paragraph nDepth="-1" mnNumberingStartValue="-1" mbParaIsNumberingRestart="0"/>
+       </OutlinerParaObject>
+      </SdrObject>
+     </SwAnchoredDrawObject>
+     <SwAnchoredDrawObject ptr="0x5589e5890ca0">
+      <bounds left="12752" top="1153" width="2640" height="1911"/>
+      <SdrObject ptr="0x5589e17e4780" symbol="17SdrObjCustomShape" name="Shape1_0" title="" description="" nOrdNum="1" aOutRect="12752, 1153, 2639, 1910">
+       <DefaultProperties>
+        <BaseProperties/>
+        <SfxItemSet>
+         <SfxInt32Item whichId="1065" value="1721"/>
+         <SfxBoolItem whichId="1066" value="off"/>
+         <SdrTextVertAdjustItem whichId="1072" value="1"/>
+         <SfxInt32Item whichId="1074" value="2450"/>
+         <SfxPoolItem whichId="1077" typeName="21SdrTextHorzAdjustItem" presentation="H"/>
+         <SfxUInt16Item whichId="1159" value="0"/>
+         <SfxPoolItem whichId="1229" typeName="26SdrCustomShapeGeometryItem" presentation=" "/>
+         <SfxPoolItem whichId="4020" typeName="13SvxAdjustItem" presentation="C"/>
+         <SvxFontItem whichId="4025" familyName="Calibri" styleName="" family="5" pitch="0" textEncoding="0"/>
+         <SvxWeightItem whichId="4028" value="8" presentation="bold"/>
+         <SvxWeightItem whichId="4045" value="8" presentation="bold"/>
+         <SvxWeightItem whichId="4046" value="8" presentation="bold"/>
+        </SfxItemSet>
+       </DefaultProperties>
+       <OutlinerParaObject ptr="0x5589e7404aa0">
+        <EditTextObject>
+         <ContentInfo style="">
+          <text>Customer</text>
+          <SfxItemSet>
+           <SfxPoolItem whichId="4020" typeName="13SvxAdjustItem" presentation="C"/>
+           <SvxFontItem whichId="4025" familyName="Calibri" styleName="" family="5" pitch="0" textEncoding="0"/>
+           <SvxWeightItem whichId="4028" value="8" presentation="bold"/>
+           <SvxWeightItem whichId="4045" value="8" presentation="bold"/>
+           <SvxWeightItem whichId="4046" value="8" presentation="bold"/>
+          </SfxItemSet>
+          <attribs start="0" end="8">
+           <SvxFontItem whichId="4025" familyName="Calibri" styleName="" family="5" pitch="0" textEncoding="0"/>
+          </attribs>
+          <attribs start="0" end="8">
+           <SvxWeightItem whichId="4028" value="8" presentation="bold"/>
+          </attribs>
+          <attribs start="0" end="8">
+           <SvxWeightItem whichId="4045" value="8" presentation="bold"/>
+          </attribs>
+          <attribs start="0" end="8">
+           <SvxWeightItem whichId="4046" value="8" presentation="bold"/>
+          </attribs>
+         </ContentInfo>
+        </EditTextObject>
+        <Paragraph nDepth="-1" mnNumberingStartValue="-1" mbParaIsNumberingRestart="0"/>
+       </OutlinerParaObject>
+      </SdrObject>
+     </SwAnchoredDrawObject>
+     <SwAnchoredDrawObject ptr="0x5589e5856a40">
+      <bounds left="9375" top="7110" width="2640" height="1911"/>
+      <SdrObject ptr="0x5589e19d5500" symbol="17SdrObjCustomShape" name="Shape1_1" title="" description="" nOrdNum="2" aOutRect="9375, 7110, 2639, 1910">
+       <DefaultProperties>
+        <BaseProperties/>
+        <SfxItemSet>
+         <SfxInt32Item whichId="1065" value="1721"/>
+         <SfxBoolItem whichId="1066" value="off"/>
+         <SdrTextVertAdjustItem whichId="1072" value="1"/>
+         <SfxInt32Item whichId="1074" value="2450"/>
+         <SfxPoolItem whichId="1077" typeName="21SdrTextHorzAdjustItem" presentation="H"/>
+         <SfxUInt16Item whichId="1159" value="0"/>
+         <SfxPoolItem whichId="1229" typeName="26SdrCustomShapeGeometryItem" presentation=" "/>
+         <SfxPoolItem whichId="4020" typeName="13SvxAdjustItem" presentation="C"/>
+         <SvxFontItem whichId="4025" familyName="Calibri" styleName="" family="5" pitch="0" textEncoding="0"/>
+         <SvxFontHeightItem whichId="4026" height="240" prop="100" propUnit="13"/>
+         <SvxWeightItem whichId="4028" value="8" presentation="bold"/>
+         <SvxFontHeightItem whichId="4043" height="240" prop="100" propUnit="13"/>
+         <SvxFontHeightItem whichId="4044" height="240" prop="100" propUnit="13"/>
+         <SvxWeightItem whichId="4045" value="8" presentation="bold"/>
+         <SvxWeightItem whichId="4046" value="8" presentation="bold"/>
+        </SfxItemSet>
+       </DefaultProperties>
+       <OutlinerParaObject ptr="0x5589e179ddf0">
+        <EditTextObject>
+         <ContentInfo style="">
+          <text>Bank</text>
+          <SfxItemSet>
+           <SfxPoolItem whichId="4020" typeName="13SvxAdjustItem" presentation="C"/>
+           <SvxFontItem whichId="4025" familyName="Calibri" styleName="" family="5" pitch="0" textEncoding="0"/>
+           <SvxFontHeightItem whichId="4026" height="240" prop="100" propUnit="13"/>
+           <SvxWeightItem whichId="4028" value="8" presentation="bold"/>
+           <SvxFontHeightItem whichId="4043" height="240" prop="100" propUnit="13"/>
+           <SvxFontHeightItem whichId="4044" height="240" prop="100" propUnit="13"/>
+           <SvxWeightItem whichId="4045" value="8" presentation="bold"/>
+           <SvxWeightItem whichId="4046" value="8" presentation="bold"/>
+          </SfxItemSet>
+          <attribs start="0" end="4">
+           <SvxFontItem whichId="4025" familyName="Calibri" styleName="" family="5" pitch="0" textEncoding="0"/>
+          </attribs>
+          <attribs start="0" end="4">
+           <SvxWeightItem whichId="4028" value="8" presentation="bold"/>
+          </attribs>
+          <attribs start="0" end="4">
+           <SvxWeightItem whichId="4045" value="8" presentation="bold"/>
+          </attribs>
+          <attribs start="0" end="4">
+           <SvxWeightItem whichId="4046" value="8" presentation="bold"/>
+          </attribs>
+          <attribs start="0" end="4">
+           <SvxFontHeightItem whichId="4026" height="240" prop="100" propUnit="13"/>
+          </attribs>
+          <attribs start="0" end="4">
+           <SvxFontHeightItem whichId="4043" height="240" prop="100" propUnit="13"/>
+          </attribs>
+          <attribs start="0" end="4">
+           <SvxFontHeightItem whichId="4044" height="240" prop="100" propUnit="13"/>
+          </attribs>
+         </ContentInfo>
+        </EditTextObject>
+        <Paragraph nDepth="-1" mnNumberingStartValue="-1" mbParaIsNumberingRestart="0"/>
+       </OutlinerParaObject>
+      </SdrObject>
+     </SwAnchoredDrawObject>
+     <SwAnchoredDrawObject ptr="0x5589e1785c70">
+      <bounds left="9352" top="3988" width="2640" height="1911"/>
+      <SdrObject ptr="0x5589e58a0470" symbol="17SdrObjCustomShape" name="Shape1_2" title="" description="" nOrdNum="3" aOutRect="9352, 3988, 2639, 1910">
+       <DefaultProperties>
+        <BaseProperties/>
+        <SfxItemSet>
+         <SfxInt32Item whichId="1065" value="1721"/>
+         <SfxBoolItem whichId="1066" value="off"/>
+         <SdrTextVertAdjustItem whichId="1072" value="1"/>
+         <SfxInt32Item whichId="1074" value="2450"/>
+         <SfxPoolItem whichId="1077" typeName="21SdrTextHorzAdjustItem" presentation="H"/>
+         <SfxUInt16Item whichId="1159" value="0"/>
+         <SfxPoolItem whichId="1229" typeName="26SdrCustomShapeGeometryItem" presentation=" "/>
+         <SfxPoolItem whichId="4020" typeName="13SvxAdjustItem" presentation="C"/>
+         <SvxFontItem whichId="4025" familyName="Calibri" styleName="" family="5" pitch="0" textEncoding="0"/>
+         <SvxWeightItem whichId="4028" value="8" presentation="bold"/>
+         <SvxWeightItem whichId="4045" value="8" presentation="bold"/>
+         <SvxWeightItem whichId="4046" value="8" presentation="bold"/>
+        </SfxItemSet>
+       </DefaultProperties>
+       <OutlinerParaObject ptr="0x5589e55e4680">
+        <EditTextObject>
+         <ContentInfo style="">
+          <text>ATM</text>
+          <SfxItemSet>
+           <SfxPoolItem whichId="4020" typeName="13SvxAdjustItem" presentation="C"/>
+           <SvxFontItem whichId="4025" familyName="Calibri" styleName="" family="5" pitch="0" textEncoding="0"/>
+           <SvxWeightItem whichId="4028" value="8" presentation="bold"/>
+           <SvxWeightItem whichId="4045" value="8" presentation="bold"/>
+           <SvxWeightItem whichId="4046" value="8" presentation="bold"/>
+          </SfxItemSet>
+          <attribs start="0" end="3">
+           <SvxFontItem whichId="4025" familyName="Calibri" styleName="" family="5" pitch="0" textEncoding="0"/>
+          </attribs>
+          <attribs start="0" end="3">
+           <SvxWeightItem whichId="4028" value="8" presentation="bold"/>
+          </attribs>
+          <attribs start="0" end="3">
+           <SvxWeightItem whichId="4045" value="8" presentation="bold"/>
+          </attribs>
+          <attribs start="0" end="3">
+           <SvxWeightItem whichId="4046" value="8" presentation="bold"/>
+          </attribs>
+          <attribs start="0" end="3">
+           <SvxFontHeightItem whichId="4026" height="960" prop="100" propUnit="13"/>
+          </attribs>
+          <attribs start="0" end="3">
+           <SvxFontHeightItem whichId="4043" height="800" prop="100" propUnit="13"/>
+          </attribs>
+          <attribs start="0" end="3">
+           <SvxFontHeightItem whichId="4044" height="960" prop="100" propUnit="13"/>
+          </attribs>
+         </ContentInfo>
+        </EditTextObject>
+        <Paragraph nDepth="-1" mnNumberingStartValue="-1" mbParaIsNumberingRestart="0"/>
+       </OutlinerParaObject>
+      </SdrObject>
+     </SwAnchoredDrawObject>
+     <SwAnchoredDrawObject ptr="0x5589e6574be0">
+      <bounds left="7491" top="2907" width="1863" height="1730"/>
+      <SdrObject ptr="0x5589e6ad6720" symbol="10SdrPathObj" name="Shape2" title="" description="" nOrdNum="4" aOutRect="7491, 2907, 1862, 1729">
+       <DefaultProperties>
+        <BaseProperties/>
+        <SfxItemSet>
+         <SfxPoolItem whichId="1000" typeName="14XLineStyleItem" presentation=""/>
+         <NameOrIndex whichId="1001" isIndex="false" name="Dot" index="-1"/>
+         <SfxInt32Item whichId="1002" value="86"/>
+         <NameOrIndex whichId="1005" isIndex="false" name="Arrowheads 1" index="-1"/>
+         <SfxInt32Item whichId="1006" value="328"/>
+         <SfxInt32Item whichId="1007" value="328"/>
+         <SfxInt32Item whichId="1068" value="42"/>
+         <SfxInt32Item whichId="1069" value="42"/>
+         <SfxInt32Item whichId="1070" value="42"/>
+         <SfxInt32Item whichId="1071" value="42"/>
+         <SdrTextVertAdjustItem whichId="1072" value="1"/>
+         <SfxPoolItem whichId="1077" typeName="21SdrTextHorzAdjustItem" presentation="H"/>
+         <SfxPoolItem whichId="4020" typeName="13SvxAdjustItem" presentation="C"/>
+        </SfxItemSet>
+       </DefaultProperties>
+      </SdrObject>
+     </SwAnchoredDrawObject>
+     <SwAnchoredDrawObject ptr="0x5589e7eab830">
+      <bounds left="12046" top="3004" width="2505" height="2328"/>
+      <SdrObject ptr="0x5589e61a1210" symbol="10SdrPathObj" name="Shape3" title="" description="" nOrdNum="5" aOutRect="12046, 3004, 2504, 2327">
+       <DefaultProperties>
+        <BaseProperties/>
+        <SfxItemSet>
+         <SfxPoolItem whichId="1000" typeName="14XLineStyleItem" presentation=""/>
+         <NameOrIndex whichId="1001" isIndex="false" name="Dot" index="-1"/>
+         <SfxInt32Item whichId="1002" value="115"/>
+         <NameOrIndex whichId="1004" isIndex="false" name="" index="-1"/>
+         <NameOrIndex whichId="1005" isIndex="false" name="Arrowheads 1" index="-1"/>
+         <SfxInt32Item whichId="1006" value="371"/>
+         <SfxInt32Item whichId="1007" value="371"/>
+         <SfxInt32Item whichId="1068" value="56"/>
+         <SfxInt32Item whichId="1069" value="56"/>
+         <SfxInt32Item whichId="1070" value="56"/>
+         <SfxInt32Item whichId="1071" value="56"/>
+         <SdrTextVertAdjustItem whichId="1072" value="1"/>
+         <SfxPoolItem whichId="1077" typeName="21SdrTextHorzAdjustItem" presentation="H"/>
+         <SfxPoolItem whichId="4020" typeName="13SvxAdjustItem" presentation="C"/>
+        </SfxItemSet>
+       </DefaultProperties>
+      </SdrObject>
+     </SwAnchoredDrawObject>
+     <SwAnchoredDrawObject ptr="0x5589e79a96b0">
+      <bounds left="10464" top="5839" width="373" height="1274"/>
+      <SdrObject ptr="0x5589e57d4400" symbol="10SdrPathObj" name="Shape4" title="" description="" nOrdNum="6" aOutRect="10464, 5839, 372, 1273">
+       <DefaultProperties>
+        <BaseProperties/>
+        <SfxItemSet>
+         <SfxPoolItem whichId="1000" typeName="14XLineStyleItem" presentation=""/>
+         <NameOrIndex whichId="1001" isIndex="false" name="Dot" index="-1"/>
+         <SfxInt32Item whichId="1002" value="115"/>
+         <NameOrIndex whichId="1005" isIndex="false" name="Arrowheads 1" index="-1"/>
+         <SfxInt32Item whichId="1006" value="371"/>
+         <SfxInt32Item whichId="1007" value="371"/>
+         <SfxInt32Item whichId="1068" value="56"/>
+         <SfxInt32Item whichId="1069" value="56"/>
+         <SfxInt32Item whichId="1070" value="56"/>
+         <SfxInt32Item whichId="1071" value="56"/>
+         <SdrTextVertAdjustItem whichId="1072" value="1"/>
+         <SfxPoolItem whichId="1077" typeName="21SdrTextHorzAdjustItem" presentation="H"/>
+         <SfxPoolItem whichId="4020" typeName="13SvxAdjustItem" presentation="C"/>
+        </SfxItemSet>
+       </DefaultProperties>
+      </SdrObject>
+     </SwAnchoredDrawObject>
+    </anchored>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>

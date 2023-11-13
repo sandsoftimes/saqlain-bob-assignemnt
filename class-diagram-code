@@ -1,0 +1,58 @@
+@startuml
+
+skinparam class {
+    BackgroundColor PaleGreen
+    BorderColor Black
+}
+
+
+package "ATM System" {
+
+class Bank {
+    +CheckBalance(accountNumber: int): float
+    +DepositFunds(accountNumber: int, amount: float): boolean
+    +WithdrawCash(accountNumber: int, amount: float): boolean
+    +TransferFunds(fromAccountNumber: int, toAccountNumber: int, amount: float): boolean
+}
+
+class ATM {
+    -cardInserted: boolean
+    +insertCard(cardNumber: int, pin: int): boolean
+    +ejectCard(): boolean
+    +checkBalance(accountNumber: int): float
+    +depositFunds(accountNumber: int, amount: float): boolean
+    +withdrawCash(accountNumber: int, amount: float): boolean
+    +transferFunds(fromAccountNumber: int, toAccountNumber: int, amount: float): boolean
+}
+
+class ATMService {
+    +ReplenishCash(amount: float): boolean
+    +ReplenishInk(inkType: string): boolean
+    +ReplenishPrinterPaper(paperType: string): boolean
+    +UpgradeHardware(): boolean
+    +UpgradeFirmware(): boolean
+    +UpgradeSoftware(): boolean
+    +Diagnostics(): boolean
+}
+
+class Customer {
+    -Name: string
+    -Pin: integer
+    +Proceed(): boolean
+    +Exit(): boolean
+}
+
+class ATMTechnician{
+    -Name: string
+    -Password: string
+    +AdminMenu(): boolean
+    +UserMenu(): boolean
+}
+
+Customer --> ATM: Uses
+ATM --> Bank: Requests
+ATMTechnician --> ATMService: Provides Maintenance and Repairs
+ATMService --> ATM: Applied On 
+
+}
+@enduml
